@@ -1,0 +1,8 @@
+# requirements.txt
+yt-dlp
+Pillow
+requests
+librosa
+PyQt5
+# (no pyinstaller here)
+
